@@ -23,6 +23,35 @@ A UML `class diagram` is a structural diagram that can be used to visually model
 4. _Private and public access is noted to the left of each member. A minus (-) indicates private and a plus (+) indicates public._
 
 
+## UML for inheritance
+UML uses an arrow with a solid line and an unfilled arrow head to indicate that one class inherits from another. The arrow points toward the superclass.
+
+UML uses italics to denote abstract classes. In particular, UML uses italics for the abstract class' name, and for each abstract method in the class. As a reminder, a superclass does not have to be abstract. Also, any class with an abstract method must be abstract.
+
+## UML uses italics for abstract classes and methods.
+![Screen Shot 2022-09-05 at 2 39 58 PM](https://user-images.githubusercontent.com/71942518/188514599-6e41da02-86d3-4832-a20e-0b5a09ba84be.png)
+
+| Shape |
+| --- |
+| +_computerArea(): double_ |
+1. Shape is an abstract class, so the class name and abstract method are in italics.
+
+| Shape |
+| --- |
+| +_computerArea(): double_ |
+
+Circle inherits from Shape: :arrow_up: 
+
+| Circle |
+| --- |
+| -radius: double |
+| -center: Point |
+| +computerArea(): double |
+2. The solid-lined arrow with an unfilled arrow head indicates that the Circle class inherits from Shape.
+
+3. Circle is a concrete class, so the class name is shown in regular font. Note that Circle implements computeArea().
+
+
 
 
 ## Thanks for watching!
