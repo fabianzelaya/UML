@@ -6,29 +6,25 @@ The `Unified Modeling Language (UML)` is a language for software design that use
 A UML `class diagram` is a structural diagram that can be used to visually model the classes of a computer program, including member variables and methods.
 
 ## UML class diagrams show class names, members, types, and access.
-![](https://file%2B.vscode-resource.vscode-cdn.net/var/folders/c0/lwr8z06n7rl_18bdzkdfqbqw0000gn/T/TemporaryItems/NSIRD_screencaptureui_TyoHj0/Screen%20Shot%202022-09-05%20at%202.20.22%20PM.png?version%3D1662412846898)
-
-1. ![](https://file%2B.vscode-resource.vscode-cdn.net/var/folders/c0/lwr8z06n7rl_18bdzkdfqbqw0000gn/T/TemporaryItems/NSIRD_screencaptureui_t15uOY/Screen%20Shot%202022-09-05%20at%202.21.40%20PM.png?version%3D1662412906477)
-
-_One box exists for each class. The class name is centered at the top._
-
-2. ![](https://file%2B.vscode-resource.vscode-cdn.net/var/folders/c0/lwr8z06n7rl_18bdzkdfqbqw0000gn/T/TemporaryItems/NSIRD_screencaptureui_WuMboh/Screen%20Shot%202022-09-05%20at%202.22.22%20PM.png?version%3D1662412946463)
-
-_Class members are listed in the box below. Member variables have a name followed by a colon and the type._
-
-3. ![](https://file%2B.vscode-resource.vscode-cdn.net/var/folders/c0/lwr8z06n7rl_18bdzkdfqbqw0000gn/T/TemporaryItems/NSIRD_screencaptureui_kzxzJK/Screen%20Shot%202022-09-05%20at%202.23.09%20PM.png?version%3D1662412993245)
-
-_Each member method's name and return type is listed similarly._
-
-4. ![](https://file%2B.vscode-resource.vscode-cdn.net/var/folders/c0/lwr8z06n7rl_18bdzkdfqbqw0000gn/T/TemporaryItems/NSIRD_screencaptureui_GEbpjV/Screen%20Shot%202022-09-05%20at%202.23.53%20PM.png?version%3D1662413035381)
-
-_Private and public access is noted to the left of each member. A minus (-) indicates private and a plus (+) indicates public._
+![Screen Shot 2022-09-05 at 2 28 18 PM](https://user-images.githubusercontent.com/71942518/188513841-ea48947f-6994-4f52-9c4c-268c6a14c33c.png)
 
 
-1. One box exists for each class. The class name is centered at the top.
-2. Class members are listed in the box below. Member variables have a name followed by a colon and the type.
-3. Each member method's name and return type is listed similarly.
-4. Private and public access is noted to the left of each member. A minus (-) indicates private and a plus (+) indicates public.
+![Screen Shot 2022-09-05 at 2 28 57 PM](https://user-images.githubusercontent.com/71942518/188513880-2155c4df-c3e0-4b18-8c67-cf15e858a8db.png)
+1. _One box exists for each class. The class name is centered at the top._
+
+![Screen Shot 2022-09-05 at 2 30 17 PM](https://user-images.githubusercontent.com/71942518/188513981-436be3ae-4b6a-47c9-9347-9a96e82b795f.png)
+
+2. _Class members are listed in the box below. Member variables have a name followed by a colon and the type._
+
+![Screen Shot 2022-09-05 at 2 30 59 PM](https://user-images.githubusercontent.com/71942518/188514030-85bb0823-21c7-45b6-a6af-2125e7fe5989.png)
+
+3. _Each member method's name and return type is listed similarly._
+
+![Screen Shot 2022-09-05 at 2 31 41 PM](https://user-images.githubusercontent.com/71942518/188514082-07e96a31-5438-4bd0-a0bc-7e15cb823a8d.png)
+
+4. _Private and public access is noted to the left of each member. A minus (-) indicates private and a plus (+) indicates public._
+
+
 
 
 ## Thanks for watching!
