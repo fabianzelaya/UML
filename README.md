@@ -6,8 +6,6 @@ The `Unified Modeling Language (UML)` is a language for software design that use
 A UML `class diagram` is a structural diagram that can be used to visually model the classes of a computer program, including member variables and methods.
 
 ## UML class diagrams show class names, members, types, and access.
-![Screen Shot 2022-09-05 at 2 28 18 PM](https://user-images.githubusercontent.com/71942518/188513841-ea48947f-6994-4f52-9c4c-268c6a14c33c.png)
-
 
 ![Screen Shot 2022-09-05 at 2 28 57 PM](https://user-images.githubusercontent.com/71942518/188513880-2155c4df-c3e0-4b18-8c67-cf15e858a8db.png)
 1. _One box exists for each class. The class name is centered at the top._
